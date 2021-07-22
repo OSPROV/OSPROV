@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @OSPROV
+- 👀 We are a startup company from Malaysia, trying to change the Enterprise Landscape here.
+- 🌱 We are focused in developing using PHP Laravel.
+- 💞️ We are looking to collaborate with other developers to earn residual and passive income with the development of plugins for OSPROV system.
+- 📫 You can reach us at hi@osprov.com
